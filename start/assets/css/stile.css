@@ -36,6 +36,9 @@ h1,h2 {
 h1 {
     color: white;
 }
+h2 {
+    color: #00A0C6; 
+}
 img {
     border: thin;
     border-width: 3px;
